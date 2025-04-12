@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **learning more about building my own projects.**
 
-- 🌱 I’m currently learning **HTML, Python, JS, react and tailwind.**
+- 🌱 I’m currently learning **HTML, Python, JS, Next.js, react and tailwind.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kobe0103?tab=repositories](https://github.com/Kobe0103?tab=repositories)
 
